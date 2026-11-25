@@ -128,7 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Game.py
-main.py
 MemoryGameController.py
 PianoController.py
 RunnerGame.py
@@ -140,4 +139,3 @@ Matcher.py
 .vscode/extensions.json
 .micropico
 .agents/skills.json
-secrets.py
